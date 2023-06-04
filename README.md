@@ -6,7 +6,7 @@
 
 - 💼 Backend Developer 
 
-- 💻 I’m currently working at [C6 Bank]
+- 💻 I’m currently freelancer.
 
 - 📚 I'm studying Analysis and Systems Development at São Paulo Tech School
 
