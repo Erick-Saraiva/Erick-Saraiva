@@ -4,7 +4,7 @@
 
 <br>
 
-- 💼 Backend Developer.
+- 💼 Back-end Developer Java | Kotlin | Spring Framework | PostgreSQL.
 
 - 💻 I’m currently freelancer.
 
