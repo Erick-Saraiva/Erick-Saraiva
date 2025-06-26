@@ -6,7 +6,7 @@
 
 - 💼 Back-end Developer Java | Kotlin | Spring Framework | PostgreSQL.
 
-- 💻 I’m currently freelancer.
+- 💻 I’m currently working as Junior Developer.
 
 - 📚 Systems analyst and developer.
 
